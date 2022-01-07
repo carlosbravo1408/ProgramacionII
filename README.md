@@ -9,8 +9,8 @@ El material que esta aquí solia ser parte de la malla Estudiantil para la Mater
 ## Observaciones:
 Es probable que este material esté un poco desactualizado, ya que lo creé hace ya unos años atrás.
 
-#Unidades
-- ##Unidad 1
+# Unidades
+- ## Unidad 1
   - Programación Visual
   - Programación Orientada a Objetos (POO)
   - Como crear tu primer WinForm Application
@@ -20,13 +20,13 @@ Es probable que este material esté un poco desactualizado, ya que lo creé hace
   - Menu y MenuStrip
   - Componente Timer
   - Gráficas Curvas, y Gráficas estadísticas
-- ##Unidad 2
+- ## Unidad 2
   - Colección de datos
   - DataGridView (El Arcaico DataGridView de .netFramework XD)
-- ##Unidad 3 (incluye códigos en arduino)
+- ## Unidad 3 (incluye códigos en arduino)
   - Comunicación Serial
-- ##Unidad 4
+- ## Unidad 4
   - Base de Datos.
-- ##Unidad 5 (esta unidad está un poco desactualizada)
+- ## Unidad 5 (esta unidad está un poco desactualizada)
   - Usar Aforge.net para conectar un mando USB
   - Usar Aforge.net para reconocer formas y colores.
